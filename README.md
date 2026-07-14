@@ -30,19 +30,12 @@ This dashboard answers important business questions such as:
 - Excel Formulas
 - Dashboard Design
 
-## Dataset
-
-**Dataset:** Investment Portfolio Dataset
-
-The dataset contains investment records for **1,000 investors** across multiple investment categories and locations.
-
 
 # Dashboard Preview
 
 ## Investment Dashboard
 
 > *(![Investment Dashboard](Dashboard%20Screenshots/Dashboard.png))*
-> *(![Summary Dashboard](Dashboard%20Screenshots/Summary%20Dashboard.png))*
 
 
 # Key Performance Indicators
